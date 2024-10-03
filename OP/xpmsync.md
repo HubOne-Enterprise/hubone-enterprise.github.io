@@ -1,0 +1,1 @@
+### [OnePracticeSync - Re-Authenticating with XPM.pdf](https://raw.githubusercontent.com/HubOne-Enterprise/hubone-enterprise.github.io/main/docs/OnePracticeSync%20-%20Re-Authenticating%20with%20XPM.pdf) ###
